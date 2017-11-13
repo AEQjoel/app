@@ -1,0 +1,51 @@
+.nav-link 
+{
+	color:black;
+	text-decoration:none;
+	font-size:25px;
+}
+.nav-item
+{
+	 list-style-type: none; 
+	 padding-bottom: 100px;
+}
+.menu_left
+{
+	background-color:#E1E2E2;
+	display:inline-block;
+	float:left;
+	padding-bottom: 100px;
+	padding-right:20px;
+	padding-top:40px;
+}
+.top_barre
+{
+	background-color:white;
+}
+.card
+{
+	font-size:25px;
+	display:inline-block;
+	padding:25px;
+	border:none;
+	border-width:2px;
+	border-color:green; 
+	margin: 20px 20px 20px 20px;
+	border-radius:10px;
+	background-color:#43CE43;
+}
+a
+{ 
+	text-decoration:none;
+	color:black;
+}
+.connexion
+{
+
+	float:right;
+}
+.container-fluid
+{
+	margin-left:0px;
+	margin-top:20px;
+}
